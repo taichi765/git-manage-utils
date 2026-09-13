@@ -30,6 +30,7 @@
             pname = "git-manage-utils";
             version = "0.0.0";
             src = ./.;
+            vendorHash = "sha256-YIOZrXOxBDUUI+39m5JJIm9kGn+rhyLL4XU+DAkbTUo=";
           };
         }
       );
